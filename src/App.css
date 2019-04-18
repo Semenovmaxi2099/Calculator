@@ -1,0 +1,45 @@
+.result {
+  height: 20px;
+  width: 180px;
+  background-color: grey;
+  margin-left: 10px;
+}
+
+.result p {
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.calculator-body {
+  width: 200px;
+  height:275px;
+  margin: auto;
+  text-align: center;
+  background-color: #39382f;
+}
+
+.button {
+  /*display: block;*/
+  background-color: black;
+}
+
+button {
+  width: 45px;
+  height: 45px;
+  font: 20px bold;
+  background-color: #fcf3bc;
+}
+
+.name
+{
+  padding-top: 10px;
+  color: lightgreen;
+  font-size: 18px;
+  text-align: center;
+}
+.enter
+{
+  width:180px;
+  background-color: #69d6b5;
+}
